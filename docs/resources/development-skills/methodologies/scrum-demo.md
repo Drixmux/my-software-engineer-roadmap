@@ -1,6 +1,6 @@
 # Scrum Demo
 
-![Scrum Flow](../../../../assets/images/scrum-graph.png)
+![Scrum Flow](../../../../assets/images/scrum-graph.jpg)
 
 ## Team details
 
@@ -28,7 +28,7 @@
 
 ## Day 1
 
-![Scrum Flow](../../../../assets/images/scrum-day-1.png)
+![Scrum Flow](../../../../assets/images/scrum-day-1.jpg)
 
 During sprint planning, the team reviewed the product backlog and defined the sprint backlog:
 
@@ -51,7 +51,7 @@ Tester A started working on test plan for List TODO items.
 
 ## Day 2
 
-![Scrum Flow](../../../../assets/images/scrum-day-2.png)
+![Scrum Flow](../../../../assets/images/scrum-day-2.jpg)
 
 Daily scrum:
 - Developer A
@@ -80,7 +80,7 @@ Daily scrum:
 
 ## Day 3
 
-![Scrum Flow](../../../../assets/images/scrum-day-3.png)
+![Scrum Flow](../../../../assets/images/scrum-day-3.jpg)
 
 Daily scrum:
 - Developer A
@@ -109,7 +109,7 @@ Daily scrum:
 
 ## Day 4
 
-![Scrum Flow](../../../../assets/images/scrum-day-4.png)
+![Scrum Flow](../../../../assets/images/scrum-day-4.jpg)
 
 Daily scrum:
 - Developer A
@@ -138,7 +138,7 @@ Daily scrum:
 
 ## Day 5
 
-![Scrum Flow](../../../../assets/images/scrum-day-5.png)
+![Scrum Flow](../../../../assets/images/scrum-day-5.jpg)
 
 Daily scrum:
 - Developer A
@@ -179,11 +179,11 @@ The team reviewed the product backlog and re-prioritize some items:
 
 ## Day 6, 7 - Weekend
 
-![Scrum Flow](../../../../assets/images/scrum-day-6-7.png)
+![Scrum Flow](../../../../assets/images/scrum-day-6-7.jpg)
 
 ## Day 8
 
-![Scrum Flow](../../../../assets/images/scrum-day-8.png)
+![Scrum Flow](../../../../assets/images/scrum-day-8.jpg)
 
 Daily scrum:
 - Developer A
@@ -212,7 +212,7 @@ Daily scrum:
 
 ## Day 9
 
-![Scrum Flow](../../../../assets/images/scrum-day-9.png)
+![Scrum Flow](../../../../assets/images/scrum-day-9.jpg)
 
 Daily scrum:
 - Developer A
@@ -253,7 +253,7 @@ A new item was added for developer B, this is how the sprint backlog looks like:
 
 ## Day 10
 
-![Scrum Flow](../../../../assets/images/scrum-day-10.png)
+![Scrum Flow](../../../../assets/images/scrum-day-10.jpg)
 
 Daily scrum:
 - Developer A
@@ -282,7 +282,7 @@ Daily scrum:
 
 ## Day 11
 
-![Scrum Flow](../../../../assets/images/scrum-day-11.png)
+![Scrum Flow](../../../../assets/images/scrum-day-11.jpg)
 
 Daily scrum:
 - Developer A
@@ -325,7 +325,7 @@ A new item was added for developer B, this is how the sprint backlog looks like:
 
 ## Day 12
 
-![Scrum Flow](../../../../assets/images/scrum-day-12.png)
+![Scrum Flow](../../../../assets/images/scrum-day-12.jpg)
 
 Daily scrum:
 - Developer A
@@ -389,4 +389,4 @@ Increment - TODO app v1:
 
 ## Day 13, 14 - Weekend
 
-![Scrum Flow](../../../../assets/images/scrum-day-13-14.png)
+![Scrum Flow](../../../../assets/images/scrum-day-13-14.jpg)
