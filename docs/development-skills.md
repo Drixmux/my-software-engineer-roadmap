@@ -1,1 +1,98 @@
 # Development Skills
+
+- Development Methodologies
+  - Waterfall
+  - [Scrum](/docs/resources/development-skills/methodologies/scrum.md)
+  - Kanban
+- Development Principles
+  - SOLID
+  - KISS
+  - YAGNI
+  - DRY
+  - TDD
+  - DDD
+  - BDD
+- Programming Paradigms
+  - Imperative
+  - Declarative
+  - Object Oriented
+  - Procedural
+  - Functional
+- Software Architecture Styles
+  - Monolitic
+  - SOA
+  - Microservices
+  - Serverless
+- Data Structures and Algorithms
+  - Arrays
+  - Lists
+  - Trees
+  - Hashtables
+  - Stacks
+  - Queues
+  - Heaps
+  - Sort
+  - Search
+  - Recursion
+- Design Patterns
+  - Singleton
+  - Builder
+  - Factory
+  - Strategy
+  - Observer
+  - Facade
+  - Decorator
+  - Proxy
+  - MVC
+  - Circuit Broker
+  - Event Sourcing
+  - CQRS
+  - Microservices Specific Patterns
+- Languages (syntax and best practices)
+  - Java
+    - Spring
+  - JavaScript
+    - TypeScript
+    - NodeJs
+    - Express
+    - Go
+    - React
+    - Angular
+  - CSS
+    - SASS
+    - Bootstrap
+- Testing
+  - Unit Testing
+  - Integration Testing
+  - Load Testing
+  - Performance Testing
+  - Gherkin Language
+  - Cucumber
+- Databases
+  - PostgreSQL
+  - MySQL
+  - Oracle
+  - MS SQL
+  - MongoDB
+  - DynamoDB
+- Search Engine
+  - Elastic Search
+  - Solr
+- APIs
+  - REST APIs
+  - JSON APIs
+  - GraphQL
+  - SOAP
+  - gRPC
+  - Gateways
+  - OpenAPI
+  - Swagger
+  - HATEOAS
+- Authentication
+  - JWT
+  - OAuth
+  - SAML
+  - OpenID
+- Web Security
+  - CORS
+  - Output Encoding

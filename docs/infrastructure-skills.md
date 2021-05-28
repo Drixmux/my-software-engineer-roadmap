@@ -1,1 +1,23 @@
 # Infrastructure Skills
+
+- Services Models
+  - IaaS
+  - PaaS
+  - SaaS
+- Source Control
+  - git
+- Build Tools
+  - Ant
+  - Maven
+  - Gradle
+  - Npm
+- Containarization
+  - Docker
+- Orchestration
+  - Kubernetes
+  - K9s
+  - Jenkins
+- Cloud Providers
+  - AWS
+  - Azure
+  - GCP

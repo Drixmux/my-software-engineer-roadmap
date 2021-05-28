@@ -18,4 +18,5 @@ Given that experience, I decided to spend sometime collecting all the knowledge 
 - [ ] Soft Skills
 
 # In Progress
-- ![Progress](https://progress-bar.dev/0/?width=400&title=Development%20Skills)
+- ![Progress](https://progress-bar.dev/5/?width=400&title=Development%20Skills)
+- ![Progress](https://progress-bar.dev/100/?width=400&title=Development%20Methodologies%20-%20Scrum)
