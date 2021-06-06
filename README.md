@@ -7,6 +7,8 @@ He was talking about my software engineer career, and I would say it was easy to
 
 Given that experience, I decided to spend sometime collecting all the knowledge I have and centralize it here.
 
+My main programming language on this document will be JavaScript.
+
 # Content
 - [Development Skills](/docs/development-skills.md)
 - [Infrastructure Skills](/docs/infrastructure-skills.md)
@@ -18,5 +20,6 @@ Given that experience, I decided to spend sometime collecting all the knowledge 
 - [ ] Soft Skills
 
 # In Progress
-- ![Progress](https://progress-bar.dev/5/?width=400&title=Development%20Skills)
-- ![Progress](https://progress-bar.dev/100/?width=400&title=Development%20Methodologies%20-%20Scrum)
+- ![Progress](https://progress-bar.dev/5/?width=500&title=Development%20Skills)
+- ![Progress](https://progress-bar.dev/100/?width=410&title=Development%20Methodologies%20-%20Scrum)
+- ![Progress](https://progress-bar.dev/100/?width=375&title=Programming%20Paradigms%20-%20Object%20Oriented)

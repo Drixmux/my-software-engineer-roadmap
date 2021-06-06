@@ -15,7 +15,7 @@
 - Programming Paradigms
   - Imperative
   - Declarative
-  - Object Oriented
+  - [Object Oriented](/docs/resources/development-skills/programming-paradigms/object-oriented.md)
   - Procedural
   - Functional
 - Software Architecture Styles
