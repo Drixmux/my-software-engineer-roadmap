@@ -20,6 +20,8 @@ My main programming language on this document will be JavaScript.
 - [ ] Soft Skills
 
 # In Progress
-- ![Progress](https://progress-bar.dev/5/?width=500&title=Development%20Skills)
+- ![Progress](https://progress-bar.dev/15/?width=500&title=Development%20Skills)
 - ![Progress](https://progress-bar.dev/100/?width=410&title=Development%20Methodologies%20-%20Scrum)
 - ![Progress](https://progress-bar.dev/100/?width=375&title=Programming%20Paradigms%20-%20Object%20Oriented)
+- ![Progress](https://progress-bar.dev/70/?width=405&title=Programming%20Paradigms%20-%20Functional)
+- ![Progress](https://progress-bar.dev/100/?width=430&title=Development%20Principles%20-%20Solid)

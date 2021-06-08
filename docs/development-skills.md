@@ -5,7 +5,7 @@
   - [Scrum](/docs/resources/development-skills/methodologies/scrum.md)
   - Kanban
 - Development Principles
-  - SOLID
+  - [SOLID](/docs/resources/development-skills/development-principles/solid.md)
   - KISS
   - YAGNI
   - DRY
@@ -17,7 +17,7 @@
   - Declarative
   - [Object Oriented](/docs/resources/development-skills/programming-paradigms/object-oriented.md)
   - Procedural
-  - Functional
+  - [Functional](/docs/resources/development-skills/programming-paradigms/functional.md)
 - Software Architecture Styles
   - Monolitic
   - SOA
