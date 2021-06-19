@@ -7,7 +7,7 @@ He was talking about my software engineer career, and I would say it was easy to
 
 Given that experience, I decided to spend sometime collecting all the knowledge I have and centralize it here.
 
-My main programming language on this document will be JavaScript.
+My main programming language on this document will be JavaScript, but in some cases where JavaScript is not the best language to explain the concept, I will use C#.
 
 # Content
 - [Development Skills](/docs/development-skills.md)
@@ -25,3 +25,4 @@ My main programming language on this document will be JavaScript.
 - ![Progress](https://progress-bar.dev/100/?width=375&title=Programming%20Paradigms%20-%20Object%20Oriented)
 - ![Progress](https://progress-bar.dev/70/?width=405&title=Programming%20Paradigms%20-%20Functional)
 - ![Progress](https://progress-bar.dev/100/?width=430&title=Development%20Principles%20-%20Solid)
+- ![Progress](https://progress-bar.dev/70/?width=520&title=Design%20Patterns)
