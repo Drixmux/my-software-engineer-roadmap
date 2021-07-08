@@ -65,7 +65,7 @@ class Person {
 }
 
 class Company {
-  constructor(name, surname) {
+  constructor(name) {
     this.name = name;
     this.employees = [];
   }
